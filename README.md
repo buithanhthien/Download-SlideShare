@@ -1,6 +1,6 @@
 # Cong Cu Tai Slideshare NodeJS
 
-Cong cu tai trong  [www.slideshare.net](https://www.slideshare.net) thanh thu muc pdf.
+Cong cu tai trong  [www.slideshare.net](https://www.slideshare.net) thanh file pdf.
 >Luu y: Chi su dung tai trang: [www.slideshare.net](https://www.slideshare.net). Khong su dung o cac trang khac
 
 ## Su Dung:
