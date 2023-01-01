@@ -15,7 +15,7 @@
     "hummus": "^1.0.104",
     "images-to-pdf": "^1.0.3",
     "nyc": "^14.1.1",
-    "pdfjs-dist": "^2.0.943",
+    "pdfjs-dist": "^2.16.105",
     "request": "^2.88.0",
     "rimraf": "^2.6.3"
   }
